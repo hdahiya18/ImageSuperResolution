@@ -7,7 +7,7 @@
 
 close all;clear all;clc;
 
-imageFiles=dir('*.jpg');    %get all names with specified extensions.
+imageFiles=dir('training/*.jpg');    %get all names with specified extensions.
 nFiles=length(imageFiles);
 
 %initialisations.
