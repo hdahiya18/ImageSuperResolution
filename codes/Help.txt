@@ -1,5 +1,6 @@
 .Example based super resolution using sparse representation.
 .HIMANSHU DAHIYA (201330046) & SANATAN MISHRA (201330025).
+. IIIT-Hyderabad
 
 Order to execute scripts->
 1. createDictionary.m
